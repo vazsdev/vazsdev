@@ -5,6 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vazevedos/)
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=vazsdev&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vazsdev&size_weight=0.5&count_weight=0.5)
 
 <br>
 
