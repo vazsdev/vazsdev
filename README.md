@@ -4,9 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-azevedo-84b281280/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vazevedos/)
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=vazsdev&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vazsdev&size_weight=0.5&count_weight=0.5)
-
 <br>
 
 ### Tecnologias que uso
