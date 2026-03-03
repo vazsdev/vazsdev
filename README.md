@@ -17,11 +17,11 @@
 </div>
 <br>
 <br>
-Desenvolvedor com foco em JavaScript e forte interesse em entender profundamente a lógica por trás do código. Não busco apenas fazer funcionar — gosto de compreender o porquê das coisas, desde comparação de strings até detalhes de **reduce, map, filter** e **estruturação de objetos**.
+Desenvolvedor com foco em JavaScript e forte interesse em entender profundamente a lógica por trás do código. Não busco apenas fazer funcionar — gosto de compreender o porquê das coisas, desde comparação de strings até detalhes de reduce, map, filter e estruturação de objetos.
 
 Tenho perfil analítico e gosto de refatorar soluções, melhorar organização e deixar o código mais claro e eficiente. Costumo questionar decisões de implementação, comparar abordagens (como delete vs desestruturação) e buscar formas mais elegantes de resolver problemas.
 
-Venho construindo uma base sólida em HTML, CSS (Flexbox, Grid, responsividade) e JavaScript, avançando para conceitos intermediários como manipulação de arrays complexos, agregação de dados, estruturação de relatórios e organização de lógica em métodos reutilizáveis.
+Venho construindo uma base sólida em HTML, CSS (Flexbox, Grid, responsividade) e JavaScript, avançando para conceitos intermediários como manipulação de arrays complexos, agregação de dados, estruturação de relatórios e organização de lógica em métodos reutilizáveis. Recentemente, também tenho estudado Git e GitHub para versionamento. Buscando aprimorar minhas habilidades.
 
 Também tenho interesse em aprofundar fundamentos, performance e boas práticas, sempre buscando evoluir do “funciona” para o “bem estruturado”.
 
