@@ -16,6 +16,7 @@
   <img align='center' alt='CSS' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
 </div>
 
+<br>
 Desenvolvedor com foco em JavaScript e forte interesse em entender profundamente a lógica por trás do código. Não busco apenas fazer funcionar — gosto de compreender o porquê das coisas, desde comparação de strings até detalhes de reduce, map, filter e estruturação de objetos.
 
 Tenho perfil analítico e gosto de refatorar soluções, melhorar organização e deixar o código mais claro e eficiente. Costumo questionar decisões de implementação, comparar abordagens (como delete vs desestruturação) e buscar formas mais elegantes de resolver problemas.
