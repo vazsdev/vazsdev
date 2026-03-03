@@ -1,6 +1,7 @@
 ### Opa! Me chamo Vinicius de Azevedo
 <hr><br>
 
+### Essas são minha principais Redes Sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-azevedo-84b281280/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vazevedos/)
 
@@ -14,6 +15,8 @@
   <img align='center' alt='Javascript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
   <img align='center' alt='CSS' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
 </div>
+
+## Gosto de explorar o lado mais profundo das linguagens, foco no aprendizado autodidata. Lendo e praticando por mim mesmo, com auxílio da IA para dúvidas e ajustes finos.
 
 <br>
 <br>
