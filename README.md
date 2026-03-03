@@ -16,7 +16,12 @@
   <img align='center' alt='CSS' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
 </div>
 
-##### Gosto de explorar o lado mais profundo das linguagens, foco no aprendizado autodidata. Lendo e praticando por mim mesmo, com auxílio da IA para dúvidas e ajustes finos.
+##### Desenvolvedor focado em JavaScript, com base sólida em HTML, CSS e manipulação de DOM. Gosto de entender a lógica por trás das coisas e escrever código limpo, organizado e escalável.
+
+Tenho interesse em resolver problemas de forma prática, aprimorar minha capacidade de abstração e evoluir constantemente do nível intermediário para avançado. Busco aplicar boas práticas, melhorar performance e estruturar soluções de maneira clara e eficiente.
+
+Atualmente aprofundando conhecimentos em lógica de programação, estrutura de dados e desenvolvimento front-end.
+Gosto de explorar o lado mais profundo das linguagens, foco no aprendizado autodidata. Lendo e praticando por mim mesmo, com auxílio da IA para dúvidas e ajustes finos.
 
 <br>
 <br>
