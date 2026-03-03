@@ -1,13 +1,13 @@
-### Opa! Me chamo Vinicius de Azevedo
+# Opa! Me chamo Vinicius de Azevedo
 <hr><br>
 
-### Essas são minha principais Redes Sociais
+# Essas são minha principais Redes Sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-azevedo-84b281280/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vazevedos/)
 
 <br>
 
-### Tecnologias que uso
+# Tecnologias que uso
 <hr>
 
 <div style='display: inline_block'><br>
@@ -16,12 +16,12 @@
   <img align='center' alt='CSS' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
 </div>
 
-## Gosto de explorar o lado mais profundo das linguagens, foco no aprendizado autodidata. Lendo e praticando por mim mesmo, com auxílio da IA para dúvidas e ajustes finos.
+##### Gosto de explorar o lado mais profundo das linguagens, foco no aprendizado autodidata. Lendo e praticando por mim mesmo, com auxílio da IA para dúvidas e ajustes finos.
 
 <br>
 <br>
 
-### Habilidades sendo conquistadas
+# Habilidades sendo conquistadas
 <hr>
 <div style='display: inline_block'><br>
   <img align='center' alt='React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
@@ -31,4 +31,4 @@
 <br>
 <br>
 
-### Sempre aprendendo, buscando novos horizontes e desafios pra sair do tédio de estar no mesmo lugar.
+#### Sempre aprendendo, buscando novos horizontes e desafios pra sair do tédio de estar no mesmo lugar.
