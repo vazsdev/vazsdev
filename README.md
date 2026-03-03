@@ -1,4 +1,4 @@
-## Opa! Me chamo Vinicius de Azevedo
+### Opa! Me chamo Vinicius de Azevedo
 <hr><br>
 
 # Essas são minha principais Redes Sociais
@@ -7,7 +7,7 @@
 
 <br>
 
-## Tecnologias que uso
+### Tecnologias que uso
 <hr>
 
 <div style='display: inline_block'><br>
@@ -21,7 +21,7 @@
 <br>
 <br>
 
-## Habilidades sendo conquistadas
+### Habilidades sendo conquistadas
 <hr>
 <div style='display: inline_block'><br>
   <img align='center' alt='React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
