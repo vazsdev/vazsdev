@@ -16,12 +16,15 @@
   <img align='center' alt='CSS' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
 </div>
 
-##### Desenvolvedor focado em JavaScript, com base sólida em HTML, CSS e manipulação de DOM. Gosto de entender a lógica por trás das coisas e escrever código limpo, organizado e escalável.
+Desenvolvedor com foco em JavaScript e forte interesse em entender profundamente a lógica por trás do código. Não busco apenas fazer funcionar — gosto de compreender o porquê das coisas, desde comparação de strings até detalhes de reduce, map, filter e estruturação de objetos.
 
-Tenho interesse em resolver problemas de forma prática, aprimorar minha capacidade de abstração e evoluir constantemente do nível intermediário para avançado. Busco aplicar boas práticas, melhorar performance e estruturar soluções de maneira clara e eficiente.
+Tenho perfil analítico e gosto de refatorar soluções, melhorar organização e deixar o código mais claro e eficiente. Costumo questionar decisões de implementação, comparar abordagens (como delete vs desestruturação) e buscar formas mais elegantes de resolver problemas.
 
-Atualmente aprofundando conhecimentos em lógica de programação, estrutura de dados e desenvolvimento front-end.
-Gosto de explorar o lado mais profundo das linguagens, foco no aprendizado autodidata. Lendo e praticando por mim mesmo, com auxílio da IA para dúvidas e ajustes finos.
+Venho construindo uma base sólida em HTML, CSS (Flexbox, Grid, responsividade) e JavaScript, avançando para conceitos intermediários como manipulação de arrays complexos, agregação de dados, estruturação de relatórios e organização de lógica em métodos reutilizáveis.
+
+Também tenho interesse em aprofundar fundamentos, performance e boas práticas, sempre buscando evoluir do “funciona” para o “bem estruturado”.
+
+Além do lado técnico, tenho um perfil reflexivo, gosto de entender comportamento, motivação e transformação — algo que também influencia a forma como estudo e construo projetos.
 
 <br>
 <br>
