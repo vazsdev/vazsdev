@@ -15,7 +15,7 @@
   <img align='center' alt='Javascript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
   <img align='center' alt='CSS' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
 </div>
-
+<br>
 <br>
 Desenvolvedor com foco em JavaScript e forte interesse em entender profundamente a lógica por trás do código. Não busco apenas fazer funcionar — gosto de compreender o porquê das coisas, desde comparação de strings até detalhes de reduce, map, filter e estruturação de objetos.
 
